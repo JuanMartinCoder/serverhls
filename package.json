@@ -1,0 +1,19 @@
+{
+  "name": "streamingpage",
+  "version": "1.0.0",
+  "description": "Streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Martin Rodriguez, Nicolas Vazquez, Tomas Cardozo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "videojs-flash": "^2.2.1"
+  },
+  "devDependencies": {
+    "video.js": "^7.6.5"
+  }
+}
